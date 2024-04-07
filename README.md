@@ -40,6 +40,26 @@ Results:-
 
 ![image](https://github.com/JANVI999/Morse-Code/assets/83579839/df643223-34dc-466a-b500-432f99de5f63)
 
+Observation:-
 
+While encoding the message, the output dot and dash is indicated by blinking the LED
+and turning on the buzzer.
+For morse code decoder, switches are used to give morse code input in the serial
+window. Switch 1 is used for transmitting dot ‘.’ and switch 2 is used for transmitting
+dash ‘- ‘.
+When switch 1 for dot is pressed LED blinks and when switch 2 for dash is pressed the
+buzzer is turned on.
+Both letters and numbers can be encoded and decoded using the morse code program
+along with hardware.
+
+Conclusion:- 
+
+As we know morse code has found great scope in the fields of aviation and
+navy for security purposes. It has also proved to be a great boon and an
+important communication tool for people with various disabilities. The
+hardware implemented for morse code communication was able to
+accurately decode morse code fed into arduino IDE software via Arduino
+kit. The circuit was simple to implement and only the people having learned
+the morse code can decode the information.
 
 
