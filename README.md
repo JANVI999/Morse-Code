@@ -21,3 +21,25 @@ The most well-known code phrase is ‘SOS’. ‘SOS’ is widely recognised as 
 distress signal as it is easier to remember. Why? Because in International Morse Code,
 "S" is three dots and "O" is three dashes. Therefore, SOS in morse code is as follows:
 "dot-dot-dot-dash-dash-dash-dot-dot-dot" (...---...).
+
+Symbol representation:- 
+
+![image](https://github.com/JANVI999/Morse-Code/assets/83579839/b36d2400-4a9b-4e7d-be10-4420e77c16cb)
+
+Block Diagram:-
+
+![image](https://github.com/JANVI999/Morse-Code/assets/83579839/769ce0d7-5bad-40fd-95d1-530ad2b1d66e)
+
+Simulation:-
+
+![image](https://github.com/JANVI999/Morse-Code/assets/83579839/f27b1a72-8a7f-4794-b7bc-f827e94506bc)
+
+Results:- 
+
+![image](https://github.com/JANVI999/Morse-Code/assets/83579839/61e0eeb9-48ad-43bb-aed5-cb030800916b)
+
+![image](https://github.com/JANVI999/Morse-Code/assets/83579839/df643223-34dc-466a-b500-432f99de5f63)
+
+
+
+
