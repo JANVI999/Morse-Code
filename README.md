@@ -1,3 +1,5 @@
+# Morse code communication
+
 Morse code was developed by American inventor Samuel Morse and Alfred
 Vail in 1830s. Samuel morse invented an electric telegraph while Vail improved on
 Morse’s original design making it simpler which now is known as morse code. What is
